@@ -1,11 +1,7 @@
 # Cybersecurity Engineer 
-## My GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahazouggari&show_icons=true&theme=dark)
 
-## Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazouggari&layout=compact&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahazouggari&show_icons=true&theme=dark) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahazouggari&layout=compact&theme=dark)
 
 
 
