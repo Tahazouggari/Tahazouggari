@@ -1,7 +1,6 @@
 # Cybersecurity Engineer 
 
 
-
 <table>
   <tr>
     <td>
